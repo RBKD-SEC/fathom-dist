@@ -1,1 +1,34 @@
-{"artifacts": [{"binary": "fathom-darwin-arm64", "binary_sha256": "efa62a49d2a9372a41a264196e464161b55a8dc729938cb93eef48277522045d", "file": "fathom-0.5.0-darwin-arm64.tar.gz", "sha256": "7b1c1536ef9638aa32e2fb36d4bf409a0c7c4f90fd2d9959ee5f2ea8d16e8030"}, {"binary": "fathom-linux-amd64", "binary_sha256": "ecb7367669bfc825a5c15ee47633c5396840fefac5900b59cae60392a0430554", "file": "fathom-0.5.0-linux-amd64.tar.gz", "sha256": "c93bab7bbf3df0c0a9cef481e14e3373d30fe954584918a781067b547beb058e"}, {"binary": "fathom-linux-arm64", "binary_sha256": "f774dd8ff4884269b980f1ffb7ba8926cf1b4042dc7a3e1f5201446a205183cb", "file": "fathom-0.5.0-linux-arm64.tar.gz", "sha256": "a1b22e750398ba053d30bcf3cc737d20cac1b7767b782a636d55584b3ff0127d"}, {"binary": "fathom-windows-amd64.exe", "binary_sha256": "94b39e06cf05dea46d94c745f181f71bc375569134033b17deedb31ed8e04a66", "file": "fathom-0.5.0-windows-amd64.tar.gz", "sha256": "60f6846f641ca3b0a44712371eb0fbe2a6c7931f5e9080de52a81cab8edf7b8f"}], "fathom_version": "0.5.0", "published_at": null, "rebuilt": false, "release": "v0.5.0", "repository": "RBKD-SEC/fathom-dist", "source": "fathom private repo accepted cross-compile artifact"}
+{
+  "artifacts": [
+    {
+      "binary": "fathom-darwin-arm64",
+      "binary_sha256": "efa62a49d2a9372a41a264196e464161b55a8dc729938cb93eef48277522045d",
+      "file": "fathom-0.5.0-darwin-arm64.tar.gz",
+      "sha256": "7b1c1536ef9638aa32e2fb36d4bf409a0c7c4f90fd2d9959ee5f2ea8d16e8030"
+    },
+    {
+      "binary": "fathom-linux-amd64",
+      "binary_sha256": "ecb7367669bfc825a5c15ee47633c5396840fefac5900b59cae60392a0430554",
+      "file": "fathom-0.5.0-linux-amd64.tar.gz",
+      "sha256": "c93bab7bbf3df0c0a9cef481e14e3373d30fe954584918a781067b547beb058e"
+    },
+    {
+      "binary": "fathom-linux-arm64",
+      "binary_sha256": "f774dd8ff4884269b980f1ffb7ba8926cf1b4042dc7a3e1f5201446a205183cb",
+      "file": "fathom-0.5.0-linux-arm64.tar.gz",
+      "sha256": "a1b22e750398ba053d30bcf3cc737d20cac1b7767b782a636d55584b3ff0127d"
+    },
+    {
+      "binary": "fathom-windows-amd64.exe",
+      "binary_sha256": "94b39e06cf05dea46d94c745f181f71bc375569134033b17deedb31ed8e04a66",
+      "file": "fathom-0.5.0-windows-amd64.tar.gz",
+      "sha256": "60f6846f641ca3b0a44712371eb0fbe2a6c7931f5e9080de52a81cab8edf7b8f"
+    }
+  ],
+  "fathom_version": "0.5.0",
+  "published_at": "2026-09-05T08:49:20Z",
+  "rebuilt": false,
+  "release": "v0.5.0",
+  "repository": "RBKD-SEC/fathom-dist",
+  "source": "fathom private repo accepted cross-compile artifact"
+}
