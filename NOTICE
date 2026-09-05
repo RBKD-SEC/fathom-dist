@@ -1,0 +1,11 @@
+fathom 独立二进制分发 — NOTICE
+
+Copyright (c) 2026 RBKD-SEC. All rights reserved.
+
+fathom 为闭源专有软件（proprietary）：本仓只分发授权二进制，不提供源码、
+不授权自行编译；对二进制的逆向工程、反汇编、再分发均被禁止。
+作为 anchorscan / shrike 外置引擎使用时，同样受本条款约束。
+
+本分发只含授权二进制与公开材料：无源码、无 .env、无内部路径、无 token、
+无客户数据。每个 release 由私有 fathom 仓验收产物原样 promote 而来，
+digest 保持不变，不在本仓重建。校验见 checksums.txt 与 provenance.json。
